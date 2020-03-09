@@ -1,0 +1,11 @@
+  {
+      "applinks": {
+          "apps": [],
+          "details": [
+              {
+                  "appID": "KYSU26CM9B.com.domainname.talksick",
+                  "paths": [ "*" ]
+              }
+          ]
+      }
+  }
